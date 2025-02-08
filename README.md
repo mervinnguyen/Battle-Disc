@@ -1,4 +1,4 @@
-<h1>Battle Disc : Miniaturized Ping Pong</h1>
+<h1>Battle Disc</h1>
 
  ### [YouTube Demonstration]()
 
