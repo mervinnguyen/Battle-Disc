@@ -11,7 +11,7 @@ Welcome to the repository! Immerse yourself in the nostalgic joy of Ping Pong wi
 <h2>Key Achievements</h2>
 - Led a team of 2 engineers to develop an embedded system game with Arduino Uno using PlatformIO and Altium, end goal of deploying 500+ systems for after-school programs.<br />
 - Programmed in C++ with Adafruit libraries, introducing specific in-game movements/motion controls of the game.<br />
-- Designed a board schematic, incorporating I2C communication to display data on an I2C OLED display.
+- Designed a board schematic, incorporating I2C communication to display data on an OLED display.
 - MAANG
 
 
