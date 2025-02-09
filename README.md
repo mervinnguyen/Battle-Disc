@@ -4,7 +4,7 @@
 
 <h2>Description</h2>
 
-Welcome to the Ping Pong Game! Immerse yourself in the nostalgic joy of Ping Pong with this hands-on experience powered by Arduino. This project seamlessly blends the digital and physical worlds, offering real-time interaction through an I2C OLED display. Crafted with Arduino's versatility, the game is not only entertaining but also serves as a fantastic learning opportunity for Arduino enthusiasts. Dive into the code to explore the standards of the game logic, and feel free to customize settings to match your preferences. Whether you're a C++ Developer or a Ping Pong Enthusiast, this project invites you to enjoy the thrill of a classic game in a new, Arduino-powered dimension. Let the paddles and LED lights dance as you engage in Arduino Ping Pong fun – the perfect fusion of gaming and DIY innovation! 🏓🎮
+Welcome to Ping Pong Game! Immerse yourself in the nostalgic joy of Ping Pong with this hands-on experience using C++. This project seamlessly blends the digital and physical worlds, offering real-time interaction through an I2C OLED display. Crafted with Arduino's versatility, the game is not only entertaining but also serves as a fantastic learning opportunity for Arduino enthusiasts. Dive into the code to explore the standards of the game logic, and feel free to customize settings to match your preferences. Whether you're a C++ Developer or a Ping Pong Enthusiast, this project invites you to enjoy the thrill of a classic game in a new, Arduino-powered dimension. Let the paddles and LED lights dance as you engage in Arduino Ping Pong fun – the perfect fusion of gaming and DIY innovation! 🏓🎮
 
 <br />
 
